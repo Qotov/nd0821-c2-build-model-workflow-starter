@@ -6,27 +6,27 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: Name for input artifact
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: Name for output artifact
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: Type for output artifact
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: Dataframe after EDA
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
+        description: Min price for outliers removing
         type: string
 
       max_price:
-        description: ## ADD DESCRIPTION
+        description: Max price for outliers removing
         type: string
 
 
