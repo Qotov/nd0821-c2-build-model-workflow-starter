@@ -1,5 +1,6 @@
 
-# LINK to WANDB: https://wandb.ai/alexkotov/nyc_airbnb
+## LINK to WANDB: https://wandb.ai/alexkotov/nyc_airbnb
+## LINK to Github repository (this repository): https://github.com/Qotov/nd0821-c2-build-model-workflow-starter
 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
